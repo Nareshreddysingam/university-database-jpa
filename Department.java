@@ -1,4 +1,4 @@
-#university-database-jpa
+//#university-database-jpa
 package com.wellsfargo.counselor.entity;
 
 import javax.persistence.*;
